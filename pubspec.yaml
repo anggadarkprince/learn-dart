@@ -1,0 +1,6 @@
+name: "angga_dart"
+version: 0.0.1
+description: An absolute bare-bones app.
+dependencies:
+  browser: ">=0.10.0 <0.11.0"
+  firebase: ^7.3.0

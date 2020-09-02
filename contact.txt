@@ -1,0 +1,5 @@
+{
+    name: "angga",
+    contact: "093423423",
+    address: "avenue street 24"
+}
